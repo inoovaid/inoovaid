@@ -2,6 +2,9 @@
 
 Arquiteto de infraestrutura | Automação | Cloud | DevOps | IA aplicada à operação
 
+[![Website](https://img.shields.io/badge/Website-infra.dnn.lat-blue)](https://infra.dnn.lat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto%20Maciel-blue?logo=linkedin)](https://www.linkedin.com/in/roberto-maciel-915a088)
+
 Profissional de tecnologia focado em infraestrutura moderna, automação de processos e integração de sistemas.
 
 Meu trabalho envolve construir ambientes que combinam virtualização, containers, automação e inteligência artificial para criar infraestruturas escaláveis e inteligentes.
@@ -109,6 +112,8 @@ Esse laboratório permite simular ambientes corporativos reais e desenvolver sol
 Infra Inoova  
 Arquitetura de infraestrutura corporativa com virtualização, automação e observabilidade.
 
+[![Website](https://img.shields.io/badge/Website-infra.dnn.lat-blue)](https://infra.dnn.lat)
+
 ISP Lab  
 Laboratório de redes simulando um provedor de internet utilizando EVE-NG.
 
@@ -130,6 +135,10 @@ Meu objetivo é trabalhar em ambientes onde tecnologia, automação e inovação
 
 # Contato
 
-LinkedIn  
-Email  
-GitHub
+# Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto%20Maciel-blue?logo=linkedin)](https://www.linkedin.com/in/roberto-maciel-915a088)
+
+[![Email](https://img.shields.io/badge/Email-jose.roberto.maciel@gmail.com-red?logo=gmail)](mailto:jose.roberto.maciel@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-inoovaid-black?logo=github)](https://github.com/inoovaid)
