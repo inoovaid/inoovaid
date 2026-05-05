@@ -1,144 +1,166 @@
-# José Roberto Maciel Júnior
-
-Arquiteto de infraestrutura | Automação | Cloud | DevOps | IA aplicada à operação
-
-[![Website](https://img.shields.io/badge/Website-infra.dnn.lat-blue)](https://infra.dnn.lat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto%20Maciel-blue?logo=linkedin)](https://www.linkedin.com/in/roberto-maciel-915a088)
-
-Profissional de tecnologia focado em infraestrutura moderna, automação de processos e integração de sistemas.
-
-Meu trabalho envolve construir ambientes que combinam virtualização, containers, automação e inteligência artificial para criar infraestruturas escaláveis e inteligentes.
+# 🚀 Infraestrutura | Desenvolvimento Full Stack | Automação | Cloud | DevOps | IA aplicada à operação
 
 ---
 
-# Tecnologias
+## 💡 Sobre o Projeto
 
+Este projeto representa um ecossistema completo de tecnologia, focado em:
+
+- Infraestrutura moderna e escalável  
+- Desenvolvimento de aplicações Full Stack  
+- Automação de processos  
+- Integração entre sistemas  
+- Observabilidade e análise de dados  
+- Aplicação de Inteligência Artificial em operações  
+
+A proposta é simular e construir ambientes reais de produção, unindo **infraestrutura + software + automação**.
+
+---
+
+# 🧰 Tecnologias
+
+## ☁️ Infraestrutura e DevOps
 ![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-orange)
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Linux](https://img.shields.io/badge/Linux-Infrastructure-black)
+![pfSense](https://img.shields.io/badge/pfSense-Firewall-red)
+
+---
+
+## 🔄 Automação e Observabilidade
 ![n8n](https://img.shields.io/badge/n8n-Automation-red)
 ![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-darkgreen)
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-orange)
+![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-yellow)
 ![Metabase](https://img.shields.io/badge/Metabase-Analytics-purple)
-![Odoo](https://img.shields.io/badge/Odoo-CRM-pink)
-![GLPI](https://img.shields.io/badge/GLPI-ITSM-blue)
-![pfSense](https://img.shields.io/badge/pfSense-Firewall-red)
-![Linux](https://img.shields.io/badge/Linux-Infrastructure-black)
 
 ---
 
-# Infraestrutura e Automação
-
-Atualmente estou desenvolvendo uma infraestrutura completa chamada **Infra Inoova**, que simula um ambiente corporativo moderno com múltiplas camadas tecnológicas.
-
-A arquitetura inclui:
-
-- virtualização de servidores
-- containers para serviços
-- automação de processos
-- monitoramento da infraestrutura
-- análise de dados operacionais
-- gestão de serviços de TI
-- integração com inteligência artificial
-
-Projeto principal:
-
-Infra Inoova  
-Arquitetura de cloud privada com automação e observabilidade.
+## 💻 Desenvolvimento Full Stack
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![NestJS](https://img.shields.io/badge/NestJS-API-red)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Next.js](https://img.shields.io/badge/Next.js-SSR-black)
+![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-green)
+![Python](https://img.shields.io/badge/Python-Backend-yellow)
+![Django](https://img.shields.io/badge/Django-Web-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-teal)
+![.NET](https://img.shields.io/badge/.NET-Backend-purple)
 
 ---
 
-# Arquitetura da Infraestrutura
-
-A infraestrutura que estou desenvolvendo combina diferentes tecnologias para criar um ambiente moderno e escalável.
-
-Camadas da arquitetura:
-
-Infraestrutura física  
-↓  
-Virtualização (Proxmox)  
-↓  
-Máquinas Virtuais Linux  
-↓  
-Containers Docker  
-↓  
-Serviços da Infraestrutura
-
-Serviços implementados:
-
-- automação com n8n
-- monitoramento com Zabbix
-- dashboards com Grafana
-- análise de dados com Metabase
-- CRM com Odoo
-- ITSM com GLPI
-- segurança de rede com pfSense
+## 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![SQL Server](https://img.shields.io/badge/SQLServer-Database-red)
+![Oracle](https://img.shields.io/badge/Oracle-Database-darkred)
 
 ---
 
-# Automação e Inteligência Artificial
+# 🏗️ Arquitetura da Infraestrutura
 
-Um dos focos do projeto é integrar **automação com inteligência artificial**.
-
-A infraestrutura utiliza:
-
-- workflows automatizados com n8n
-- serviços de LLM hospedados localmente
-- integração de IA com sistemas operacionais
-- automação inteligente de processos
-
-Isso permite criar soluções como:
-
-- classificação automática de incidentes
-- automação de suporte técnico
-- análise inteligente de eventos
+A arquitetura combina múltiplas camadas tecnológicas:
+Infraestrutura Física
+↓
+Virtualização (Proxmox)
+↓
+Máquinas Virtuais Linux
+↓
+Containers Docker
+↓
+Serviços + APIs + Aplicações Full Stack
 
 ---
 
-# Laboratório de Infraestrutura
+# ⚙️ Serviços Implementados
 
-Minha infraestrutura também funciona como um laboratório técnico para:
-
-- testar novas tecnologias
-- desenvolver automações
-- experimentar integrações
-- construir novos projetos
-
-Esse laboratório permite simular ambientes corporativos reais e desenvolver soluções de infraestrutura moderna.
-
----
-
-# Projetos
-
-Infra Inoova  
-Arquitetura de infraestrutura corporativa com virtualização, automação e observabilidade.
-
-[![Website](https://img.shields.io/badge/Website-infra.dnn.lat-blue)](https://infra.dnn.lat)
-
-ISP Lab  
-Laboratório de redes simulando um provedor de internet utilizando EVE-NG.
+- Automação com n8n  
+- Monitoramento com Zabbix  
+- Observabilidade com Grafana e Prometheus  
+- BI e análise de dados com Metabase  
+- CRM com Odoo  
+- ITSM com GLPI  
+- Segurança com pfSense  
+- APIs REST e integrações  
+- Aplicações web modernas  
 
 ---
 
-# Objetivo Profissional
+# 💻 Desenvolvimento de Software
 
-Estou em busca de oportunidades para aplicar e expandir conhecimentos em:
+Desenvolvimento de aplicações completas com foco em:
 
-- infraestrutura de TI
-- automação
-- cloud
-- DevOps
-- integração de sistemas
+- Performance e escalabilidade  
+- Integração entre sistemas  
+- Arquitetura moderna  
 
-Meu objetivo é trabalhar em ambientes onde tecnologia, automação e inovação caminham juntas.
+### 🔹 Tecnologias
+- JavaScript / TypeScript (Node.js, NestJS, React, Next.js, Vue.js)  
+- Python (Django, FastAPI, Flask)  
+- C# / .NET  
+- HTML, CSS, Bootstrap, Tailwind  
+
+### 🔹 Integrações
+- APIs REST  
+- Webhooks  
+- JSON / XML  
+- Automação com n8n  
 
 ---
 
-# Contato
+# 🤖 Automação e Inteligência Artificial
 
-# Contato
+A infraestrutura integra automação com IA para:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto%20Maciel-blue?logo=linkedin)](https://www.linkedin.com/in/roberto-maciel-915a088)
+- Classificação automática de incidentes  
+- Automação de suporte técnico  
+- Análise inteligente de eventos  
+- Integração com LLMs locais  
 
-[![Email](https://img.shields.io/badge/Email-jose.roberto.maciel@gmail.com-red?logo=gmail)](mailto:jose.roberto.maciel@gmail.com)
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-inoovaid-black?logo=github)](https://github.com/inoovaid)
+# 🧪 Laboratório Tecnológico
+
+Ambiente utilizado para:
+
+- Testar novas tecnologias  
+- Desenvolver automações  
+- Criar aplicações completas  
+- Simular ambientes corporativos  
+- Validar arquiteturas modernas  
+
+---
+
+# 📦 Projetos
+
+## 🔹 Infra Inoova
+Arquitetura de cloud privada com automação, observabilidade e integração com aplicações.
+
+👉 https://infra.dnn.lat  
+
+---
+
+## 🔹 ISP Lab
+Laboratório de redes simulando um provedor de internet com EVE-NG.
+
+---
+
+## 🔹 Aplicações Full Stack
+- Sistemas web completos (frontend + backend)  
+- APIs e integrações  
+- Automações e ferramentas internas  
+
+---
+
+# 🎯 Objetivo
+
+Construir soluções modernas unindo:
+
+- Infraestrutura  
+- Desenvolvimento de software  
+- Automação  
+- Cloud e DevOps  
+- Inteligência artificial aplicada  
+
+---
