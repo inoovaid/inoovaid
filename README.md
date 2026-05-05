@@ -137,8 +137,6 @@ Ambiente utilizado para:
 ## 🔹 Infra Inoova
 Arquitetura de cloud privada com automação, observabilidade e integração com aplicações.
 
-👉 https://infra.dnn.lat  
-
 ---
 
 ## 🔹 ISP Lab
